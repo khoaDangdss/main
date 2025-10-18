@@ -1,0 +1,15 @@
+{
+  "theme": "Midnight Purple",
+  "accent": "#7F48FF",
+  "appearance": "Dark",
+  "font_scale": 1.0,
+  "window_size": [
+    900,
+    540
+  ],
+  "email": {
+    "your_email": "",
+    "app_password": "",
+    "to_email": ""
+  }
+}
